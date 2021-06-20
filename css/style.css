@@ -53,6 +53,9 @@ form {
 }
 
 @media (max-width:1350px) {
+  body{
+    height: 100%;
+  }
   .form__line {
     display: flex;
     flex-direction: column;
@@ -71,6 +74,9 @@ form {
   }
 }
 @media (max-width:950px) {
+  body{
+    height: 100%;
+  }
   .form__line {
     display: flex;
     flex-direction: column;
